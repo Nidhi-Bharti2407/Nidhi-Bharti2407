@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * 🔭 I am currently learning DevOps tools and MERN stack development.
 * 👯 I’m looking to collaborate on Frontend development.
-* 📫 Ping me [![LinkdIn](https://www.linkedin.com/in/nidhi-bharti-7643a2193/)]
+* 📫 Ping me [LinkdIn](https://www.linkedin.com/in/nidhi-bharti-7643a2193/)
 
 
 <!--
