@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Nidhi here
--🔭 I am currently pursuing my bachelor degree in computer science and engineering from lovely professional university, Phagwara, Punjab.
+🔭 I am currently pursuing my bachelor degree in computer science and engineering from lovely professional university, Phagwara, Punjab.
 
 
 <!--
