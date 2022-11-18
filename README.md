@@ -1,5 +1,4 @@
-### Hi there 👋
-### Nidhi here
+### Hi there 👋, I'am Nidhi Bharti
 🔭 I am currently pursuing my bachelor degree in computer science and engineering from lovely professional university, Phagwara, Punjab.
 
 
