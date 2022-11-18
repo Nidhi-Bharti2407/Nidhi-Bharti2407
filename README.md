@@ -1,6 +1,7 @@
 ### Hi there 👋, I'am Nidhi Bharti
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🔭 I am currently learning DevOps tools
+* 🔭 I am currently learning DevOps tools and MERN stack development.
+* 
 
 
 <!--
