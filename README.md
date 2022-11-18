@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Nidhi Bharti!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-😉Here some more details about me:
+😉Here are some more details about me:
 * 🔭 I am currently learning DevOps tools and MERN stack development.
 * 👯 I’m looking to collaborate on frontend projects.
 * 📫 Feel free to Ping me on [LinkedIn](https://www.linkedin.com/in/nidhi-bharti-7643a2193/)
