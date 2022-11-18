@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@nidhi's Holopin board]](https://holopin.io/@nidhi)
+[![@nidhi's Holopin board](https://holopin.io/@nidhi)](https://holopin.io/@nidhi)
 
 ### 📊 My GitHub Profile Activity
 <p align="left">
