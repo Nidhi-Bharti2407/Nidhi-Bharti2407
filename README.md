@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@nidhi's Holopin board](https://holopin.me/nidhi)](https://holopin.io/@nidhi)
+
+### 📊 My Github Status
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhi-Bharti2407&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+</p>
+<p><img src="https://komarev.com/ghpvc/?username=Nidhi-Bharti2407" alt="counter" /></p>
+
