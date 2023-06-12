@@ -5,8 +5,8 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nidhi-Bharti2407.repoName) [![GitHub followers](https://img.shields.io/github/followers/Nidhi-Bharti2407.svg?style=social&label=Follow)](https://github.com/Nidhi-Bharti2407?tab=followers)<br/>
 <br>
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
-
+<!-- <img align="center" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+ -->
 <hr>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
