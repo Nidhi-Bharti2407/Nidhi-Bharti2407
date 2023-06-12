@@ -32,9 +32,28 @@ Here are some ideas to get you started:
 -->
 ![@nidhi's Holopin board](https://holopin.me/nidhi)
 
+<h2>👀 My github Stats</h2>
+
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi-Bharti2407" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=Nidhi-Bharti2407&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Bharti2407&layout=compact)
+
+---------------------------------------------------------------------------------------------------------------------
+<!-- 
 ### 📊 My Profile Activity
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Nidhi-Bharti2407&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=Nidhi-Bharti2407" alt="counter" /></p>
-
+ -->
