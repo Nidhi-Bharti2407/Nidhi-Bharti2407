@@ -1,6 +1,9 @@
 ### Hi there 👋, This is Nidhi Bharti!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-😉Here are some more details about me:
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<!-- 😉Here are some more details about me: -->
 * 🔭 I am currently learning DevOps tools and AI/ML.
 * 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/16077321/nidcoder?tab=profile)
 * 📫 Feel free to Ping me on [LinkedIn](https://www.linkedin.com/in/nidhi-bharti-7643a2193/)
