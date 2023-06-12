@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, This is Nidhi Bharti</h1>
 <h3 align="center">Student at LPU, Punjab🌟.</h3>
 <br>
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nidhi-Bharti2407.repoName) [![GitHub followers](https://img.shields.io/github/followers/Nidhi-Bharti2407.svg?style=social&label=Follow)](https://github.com/Nidhi-Bharti2407?tab=followers)<br/>
 
