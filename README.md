@@ -105,12 +105,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Nidhi-Bharti2407/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="nidhi" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/16077321/nidcoder?tab=profile" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/nidhineet126?hr_r=1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="nidhi" height="30" width="40" /></a>
  <a href="https://twitter.com/NidhiBh15794252" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="nidhi" height="30" width="40" /></a>
