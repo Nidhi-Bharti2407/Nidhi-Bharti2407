@@ -102,11 +102,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/nidhi-bharti-7643a2193/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="nidhi" height="30" width="40" /></a>
-  <a href="https://github.com/Nidhi-Bharti2407/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="nidhi" height="30" width="40" /></a>
+ <a href = "https://github.com/Nidhi-Bharti2407/"> <img width = '32px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+<!--   <a href="https://github.com/Nidhi-Bharti2407/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="nidhi" height="30" width="40" /></a> -->
   <a href="https://stackoverflow.com/users/16077321/nidcoder?tab=profile" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/nidhineet126?hr_r=1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
