@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h2>👀 My GitHub Stats</h2>
 
-<div>
+<!-- <div>
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -64,6 +64,17 @@ Here are some ideas to get you started:
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Nidhi-Bharti2407&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Bharti2407&layout=compact)
+
+## My Statistics -->
+
+<br/>
+<p align="left">
+  <a href="https://Nidhi-Bharti2407.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nidhi-Bharti2407&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi-Bharti2407&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
 ---------------------------------------------------------------------------------------------------------------------
 
