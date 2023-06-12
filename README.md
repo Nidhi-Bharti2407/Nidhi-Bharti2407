@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Bharti2407&theme=gruvbox&hide_border=true&align=center&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Bharti2407&theme=gruvbox&hide_border=true&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
 
