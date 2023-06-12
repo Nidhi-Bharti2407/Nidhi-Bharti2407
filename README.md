@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 ![@nidhi's Holopin board](https://holopin.me/nidhi)
 
-<h2>👀 My github Stats</h2>
+<h2>👀 My GitHub Stats</h2>
 
 <div>
 <!--   <p align="center">
