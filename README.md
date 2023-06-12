@@ -46,12 +46,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-## Thank you for visiting my profile. You're a gem. :gem:
-
-![Visitor Count](https://profile-counter.glitch.me/Nidhi-Bharti2407/count.svg)
-
----------------------------------------------------------------------------------------------------------------------
-
 ## Tools and Languages
 
 <div align="center">  
@@ -90,6 +84,12 @@ Here are some ideas to get you started:
 </div>
 
 <br/>  
+
+---------------------------------------------------------------------------------------------------------------------
+
+## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/Nidhi-Bharti2407/count.svg)
 
 ---------------------------------------------------------------------------------------------------------------------
 
