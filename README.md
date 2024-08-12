@@ -33,6 +33,8 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> 
 -->
 
+<img align="right" width=300px alt="girl" src="https://github.com/Nidhi-Bharti2407/Nidhi-Bharti2407/blob/402d65281992e6f95452abb4ae7b52755a4d4585/femalecodertocat.png" /> 
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 <!-- 😉Here are some more details about me: -->
 * 🔭 I am currently learning ...
