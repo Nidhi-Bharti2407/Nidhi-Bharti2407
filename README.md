@@ -128,7 +128,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Nidhi-Bharti2407/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="nidhi" height="30" width="40" /></a>
- <a href="https://twitter.com/NidhiBh15794252" target="blank"><img align="center"
+ <a href="https://twitter.com/__nidhib" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="nidhi" height="30" width="40" /></a>
 </div>  
