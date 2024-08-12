@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋, This is Nidhi Bharti! -->
-<h1 align="center">Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nidhi!
+<!-- <h1 align="center">Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nidhi! -->
+<h1 align="center">Hola, I'm Nidhi!
 <picture><img src = "https://github.com/Nidhi-Bharti2407/Nidhi-Bharti2407/blob/main/about_me.gif" width = 50px></picture>
 </h1>
 <!-- <h3 align="center">Student at LPU, Punjab🌟.</h3> -->
