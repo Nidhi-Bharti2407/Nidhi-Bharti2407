@@ -12,7 +12,7 @@
 <!-- <img align="center" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
  -->
  
- <a href="https://twitter.com/NidhiBh15794252">
+ <a href="https://x.com/__nidhib">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nidhi-bharti-7643a2193/">
